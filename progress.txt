@@ -1,0 +1,4 @@
+khaled
+push-up,Pending,Sunday
+chest press,Pending,Monday
+squat,Pending,Thursday
